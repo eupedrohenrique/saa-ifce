@@ -27,7 +27,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ```bash
 # clone o repositório
-$ git clone https://github.com/pedrodev30/armario-app-test.git
+$ git clone https://github.com/eupedrohenrique/armario-app-test.git
 
 # Entre na pasta do projeto
 $ cd armario-app-test
