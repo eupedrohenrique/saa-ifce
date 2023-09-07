@@ -13,7 +13,7 @@ const Home = () => {
 
   return (
     <CenteredContainer>
-      <h1>Lista de Ármarios</h1>
+      <h1>Lista de Armários</h1>
       <div
         style={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}
       >
