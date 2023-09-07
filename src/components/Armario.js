@@ -8,6 +8,7 @@ const ArmarioContainer = styled.div`
   margin: 10px;
   background-color: ${(props) => (props.disponivel ? "#7FFF7F" : "#FF7F7F")};
   max-width: 500px;
+  text-align: center;
 
   @media (max-width: 500px) {
     width: 50%; /* Em telas menores, ocupa 100% da largura */
